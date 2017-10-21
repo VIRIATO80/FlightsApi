@@ -1,4 +1,4 @@
-# Flights REST API 
+# Flights API REST
 
 ● The application responses to following request URI with given query parameters:
 
