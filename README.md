@@ -1,5 +1,9 @@
 # Flights API REST
 
+Repositorio de un cliente REST para buscar combinaciones de aéreos basándome en las **APIs públicas de RyanAir**
+
+Está desarrollado con **Spring Boot y Java 8**.
+
 ● The application responses to following request URI with given query parameters:
 
 ```
