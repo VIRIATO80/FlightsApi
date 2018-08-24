@@ -1,4 +1,4 @@
-# Flights API REST
+# RyanAir Flights API REST
 
 Repositorio de un cliente REST para buscar combinaciones de aéreos basándome en las **APIs públicas de RyanAir**
 
